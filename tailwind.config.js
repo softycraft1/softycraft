@@ -5,6 +5,7 @@ module.exports = {
   ],
   daisyui: {
     themes: [
+      
       {
         mytheme: {
           "primary": "#a991f7",
@@ -12,11 +13,19 @@ module.exports = {
           "accent": "#37cdbe",
           "neutral": "#3d4451",
           "base-100": "#ffffff",
+          listStyleType: {      
+            none: 'none',      
+            disc: 'disc',      
+            decimal: 'decimal',      
+            square: 'square',      
+            roman: 'upper-roman',    }
         },
+        
       },
       "dark",
       "cupcake",
     ],
+  
   },
   plugins: [require("daisyui")],
   
