@@ -9,8 +9,9 @@
     box-sizing: border-box;
 
     background-image: url('./assets/Banner.jpg');
-    background-size: contain;
-    background-repeat: repeat;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 
