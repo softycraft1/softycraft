@@ -34,7 +34,7 @@ const Navbar = () => {
     },
   ];
   return (
-    <div className="mt-8 w-10/12 m-auto">
+    <div className=" pt-4 px-6 m-auto sticky top-0 z-[100] bg-[#7fadbe6c]">
       <div className="flex justify-between h-12">
         <div className="">
           <h1 className="text-2xl font-bold">
