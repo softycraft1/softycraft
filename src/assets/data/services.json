@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "App Development",
+    "icon": "https://www.svgrepo.com/show/525814/code.svg",
+    "Descriptions": "Nobo IT is one of the best Website design and development company in Bangladesh. We already deliver more than 450 Dynamic Website for different Sector.",
+    "link": "/webdesign"
+  },
+  {
+    "id": 2,
+    "title": "Web Development",
+    "icon": "https://www.svgrepo.com/show/158167/web-development.svg",
+    "Descriptions": "Nobo IT is one of the best Website design and development company in Bangladesh. We already deliver more than 450 Dynamic Website for different Sector.",
+    "link": "/webdev"
+  },
+  {
+    "id": 3,
+    "title": "Graphic Design",
+    "icon": "https://www.svgrepo.com/show/511825/directory-image-1624.svg",
+    "Descriptions": "Nobo IT is one of the best Website design and development company in Bangladesh. We already deliver more than 450 Dynamic Website for different Sector.",
+    "link": "/graphics"
+  },
+  {
+    "id": 4,
+    "title": "Web Scraping",
+    "icon": "https://www.svgrepo.com/show/107244/web-crawler.svg",
+    "Descriptions": "Nobo IT is one of the best Website design and development company in Bangladesh. We already deliver more than 450 Dynamic Website for different Sector.",
+    "link": "/scraping"
+  },
+  {
+    "id": 5,
+    "title": "Wordpress Development",
+    "icon": "https://www.svgrepo.com/show/501062/wordpress.svg",
+    "Descriptions": "Nobo IT is one of the best Website design and development company in Bangladesh. We already deliver more than 450 Dynamic Website for different Sector.",
+    "link": "/wdev"
+  },
+  {
+    "id": 6,
+    "title": "Softwere Development",
+    "icon": "https://www.svgrepo.com/show/308878/software-platform-computer-software-system.svg",
+    "Descriptions": "Nobo IT is one of the best Website design and development company in Bangladesh. We already deliver more than 450 Dynamic Website for different Sector.",
+    "link": "/sdev"
+  }
+]
