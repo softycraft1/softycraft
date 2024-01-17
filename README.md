@@ -1,8 +1,6 @@
-# React + Vite
+# SoftyCraft - Software Development Company at Your Hand
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>
+Welcome to **SoftyCraft** – Your Gateway to Innovative Solutions! Elevate your digital presence with our cutting-edge services in graphic design, app development, and web development. Unleash creativity, amplify user experiences, and redefine excellence with **SoftyCraft** – Where Vision Meets Innovation!
+</p>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
