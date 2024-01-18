@@ -1,6 +1,6 @@
-import people from "../../../assets/banner/person.png";
-import circle from "../../../assets/banner/dotteted-circle.png";
-import globe from "../../../assets/banner/Globe_1_.png";
+import people from "../../assets/banner/person.png";
+import circle from "../../assets/banner/dotteted-circle.png";
+import globe from "../../assets/banner/Globe_1_.png";
 
 const Banner = () => {
     return (

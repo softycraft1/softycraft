@@ -1,8 +1,7 @@
-import React from 'react'
 
-const Service = ({ service }) => {
+const Service = ( {service} ) => {
     return (
-        <div className="m-4">
+        <div className="m-4 text-center bg-[#ccc] hover:bg-[#d61e309c] p-6 pb-[100px] relative">
             <img
                 src={service.icon}
                 alt="Globe"

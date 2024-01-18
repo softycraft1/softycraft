@@ -1,10 +1,10 @@
 // import banner from '../assets/Banner.jpg';
-import projects from "../assets/data/projects.json";
-import coustomsoftwere from "../assets/data/coustomsoftwere.json";
-import resons from "../assets/data/resons.json";
+import projects from "../../assets/data/projects.json";
+import coustomsoftwere from "../../assets/data/coustomsoftwere.json";
+import resons from "../../assets/data/resons.json";
 import { FaExternalLinkAlt } from "react-icons/fa";
-import Services from "../components/Home/Services/Services";
-import Banner from "../components/Home/Banner/Banner";
+import Services from "../Services/Services";
+import Banner from "../Banner/Banner";
 
 const Home = () => {
     console.log(projects);

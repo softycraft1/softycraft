@@ -1,5 +1,3 @@
-import React from 'react'
-
 const ServicesInfo = () => {
     return (
         <div className="text-center my-10">

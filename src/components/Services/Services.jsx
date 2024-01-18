@@ -1,4 +1,4 @@
-import services from "../../../assets/data/services.json";
+import services from "../../assets/data/services.json";
 import Service from "./Service";
 import ServicesInfo from "./ServicesInfo";
 
@@ -7,19 +7,19 @@ const Services = () => {
     return (
         <section id="services" className="bg-1 mt-16">
             <div className="h-auto py-4">
-                {/* Sercies Information */}
+                {/* Services Information */}
                 <ServicesInfo />
 
                 {/* Services Cards */}
-                <div className="m-12">
+                <div className="m-1">
                     <div>
-                        <div className="grid gap-7 grid-cols-3">
+                        <div >
                             {
                                 services && <div
-                                    className="text-center bg-[#ccc] hover:bg-[#d61e309c] pt-4 pb-[80px] relative"
+                                    className="grid grid-cols-3 "
                                 >
                                     {services.map((service) => (
-                                        <Service key={service.id} service={service} />
+                                        <Service className="flex flex-row gap-10" key={service.id} service={service} />
                                     ))}
                                 </div>
                             }
